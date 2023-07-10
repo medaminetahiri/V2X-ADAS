@@ -1,0 +1,8 @@
+pathlib
+Pillow
+pywin32
+datetime
+sockets
+numpy
+opencv-python
+tk
